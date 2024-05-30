@@ -5,6 +5,8 @@
 :disguised_face: The software I create are on topics I truly find interesting and worth looking into! <br/>
 :eyes: I am currently working on a full stack Spotify application that empazies the social aspect of the app. <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelBarnor)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
